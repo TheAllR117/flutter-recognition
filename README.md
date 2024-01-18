@@ -68,9 +68,6 @@ flutter run
 ##  Demo
 
   
-
-This can be seen in below gif files (exactly these are what you can see with this app) -
-
   
 
 1. https://drive.google.com/file/d/1bd0K9aYTe33cVDs2WZRuOYhOF_QsHgtl/view?usp=sharing
